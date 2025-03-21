@@ -2,7 +2,7 @@ Configurando o GIT:
 git config --global user.name matheusf21
 git config --global user.email matheusferreiradelima21@gmail.com
 
-IS7 +
+ES7 +
 
 Icons
 
